@@ -5,12 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> 🔭 I’m currently a IT student.
+
+--> 🌱 I’m currently learning python as well as c language.
+
+--> 👯 I’m here to learn more and explore more.
+
+--> 🤔 A friend in need is friend indeed.
+
+--> 💬 Ask me about any thing you want to.
+
+--> 📫 How to reach me: insta-> _priyansh__13 
+
+--> 😄 Pronouns: pronounce as you wish.
+
+--> ⚡ Fun fact: i work 17 hrs a day.
+
+--> ITM(SLS)BARODA UNIVERSITY
