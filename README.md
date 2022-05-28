@@ -5,18 +5,25 @@
 
 Here are some ideas to get you started:
 
---> 🔭 I’m an IT student.
+--> 🔭 I’m an IT student 🧧.
 
---> 🌱 I’m currently learning python as well as c language.
+--> 🌱 I’m currently learning python🐍 as well as c language 📖.
 
---> 👯 I’m here to learn more and explore more.
+--> 👯 I’m here to learn more and explore more 🔍.
 
 --> 🤔 A friend in need is friend indeed.
 
---> 💬 Ask me about any thing you want to.
+--> 💬 Ask me about any thing you want to❓❓❓
 
---> 📫 How to reach me: insta-> _priyansh__13 
+--> 📫 How to reach me: 
 
---> ⚡ Fun fact: i work 17 hrs a day.
+--> insta->@_priyansh__13
+
+--> twitter ->@priyans18600265
+
+--> ⚡ Fun fact: I don't work 17 hrs a day 💪.
 
 --> ITM(SLS)BARODA UNIVERSITY
+
+
+![coding](https://user-images.githubusercontent.com/105069366/170810667-5fdcdce3-97f4-4c8a-98ce-b49fa05054a7.gif)
