@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 --> twitter ->@priyans18600265
 
---> ⚡ Fun fact: I don't work 17 hrs a day 💪.
-
---> ITM(SLS)BARODA UNIVERSITY
+--> ⚡ Fun fact: I don't work 17 hrs a day 💪
 
 
 ![coding](https://user-images.githubusercontent.com/105069366/170810667-5fdcdce3-97f4-4c8a-98ce-b49fa05054a7.gif)
