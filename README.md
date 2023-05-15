@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 --> 📫 How to reach me: 
 
---> [<a href="https://www.instagram.com/_priyansh__13/"><img src='[https://thumbs.dreamstime.com/b/instagram-141049465.jpg](https://e7.pngegg.com/pngimages/322/394/png-clipart-logo-computer-icons-instagram-logo-miscellaneous-smile.png)' alt='instagram' height='40'></a>](#) --> @_priyansh__13
+--> [<a href="https://www.instagram.com/_priyansh__13/"><img src='instagram.png' alt='instagram' height='40'></a>](#) --> @_priyansh__13
 
---> [<a href="https://twitter.com/Priyansh1305"><img src='[https://image.shutterstock.com/image-photo/kiev-ukraine-april-23-2015-260nw-272763746.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYd3fJRrCiP-IjiJr_laqPG7EYJvKjn5kApg&usqp=CAU)' alt='Twitter' height='40' width='100'></a>](#) -->@priyans18600265
+--> [<a href="https://twitter.com/Priyansh1305"><img src='twitter.png' alt='Twitter' height='40' width='100'></a>](#) -->@priyansh1305
+
+--> [<a href="[https://twitter.com/Priyansh1305](https://www.linkedin.com/in/priyansh-panchal-66b95a232/)"><img src='linkedin.png' alt='Linkedin' height='40' width='100'></a>](#) -->@priyansh-panchal
 
 --> ⚡ Fun fact: Things which are insight are not necessary to be in sight 👁️.
 
