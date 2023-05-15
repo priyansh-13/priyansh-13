@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 --> 🔭 I’m a B.Tech(I.T) student 🧧.
 
-
 --> 🌱 Learning and learning.
 
 --> 👯 I’m here to learn more and explore more 🔍.
