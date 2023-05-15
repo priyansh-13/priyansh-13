@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 --> 📫 How to reach me: 
 
---> [<a href="https://www.instagram.com/_priyansh__13/"><img src='[instagram.png](https://github.com/priyansh-13/priyansh-13/blob/main/instagram.png)' alt='instagram' height='40'></a>](#) --> @_priyansh__13
+--> [<a href="https://www.instagram.com/_priyansh__13/"><img src='[[instagram.png](https://github.com/priyansh-13/priyansh-13/blob/main/instagram.png)](https://th.bing.com/th/id/OIP.lQRk_LuIIh-6LXK9jplxGAHaHZ?w=218&h=217&c=7&r=0&o=5&pid=1.7)' alt='instagram' height='40'></a>](#) --> @_priyansh__13
 
 --> [<a href="https://twitter.com/Priyansh1305"><img src='[twitter.png](https://github.com/priyansh-13/priyansh-13/blob/main/twitter.png)' alt='Twitter' height='40' width='100'></a>](#) -->@priyansh1305
 
