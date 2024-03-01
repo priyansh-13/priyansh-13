@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 --> 💬 Ask me any thing you want to❓❓❓
 
 --> ⚡ Fun fact: Things which are insight are not necessary to be in sight 👁️.
-
-![coding]([[https://user-images.githubusercontent.com/105069366/170810667-5fdcdce3-97f4-4c8a-98ce-b49fa05054a7.gif](https://tenor.com/view/test-typing-codes-gif-15828752](https://tenor.com/view/test-typing-codes-gif-15828752)https://tenor.com/view/test-typing-codes-gif-15828752))
