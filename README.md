@@ -7,14 +7,14 @@
 Here are some ideas to get you started:
 -->
 
---> 🔭 I’m a B.Tech(I.T) student 🧧.
+--> 🔭 I’m a B.Tech(I.T) student 🧑‍💻.
 
---> 🌱 Learning and learning.
+--> 🌱 Learning and Enjoying.
 
---> 👯 I’m here to learn more and explore more 🔍.
+--> 👯 I’m here to Learn, Share and Explore  🔍.
 
---> 💬 Ask me about any thing you want to❓❓❓
+--> 💬 Ask me any thing you want to❓❓❓
 
 --> ⚡ Fun fact: Things which are insight are not necessary to be in sight 👁️.
 
-![coding](https://user-images.githubusercontent.com/105069366/170810667-5fdcdce3-97f4-4c8a-98ce-b49fa05054a7.gif)
+![coding]([https://user-images.githubusercontent.com/105069366/170810667-5fdcdce3-97f4-4c8a-98ce-b49fa05054a7.gif](https://tenor.com/view/test-typing-codes-gif-15828752))
